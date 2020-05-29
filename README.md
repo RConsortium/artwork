@@ -20,7 +20,7 @@ helpful:
 >product. The use of the mark cannot imply that The Linux Foundation or
 >its projects are sponsoring or endorsing the product.
 
-Additionally, permission is granted to modify the CDF mark for non-commercial uses such as t-shirts and stickers.
+Additionally, permission is granted to modify the R Consortium mark for non-commercial uses such as t-shirts and stickers.
 
 ## Links to logo images
 The R Consortium logo is available in 2 formats (PNG & SVG), 3 layouts --
